@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: 我的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: weizhaopeng@gmail.com
 description: "Every failure is leading towards success."
 keyword: "study，analog circuit，micro electronics"
 url: "http://zhaopengwei1.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/zhaopengwei1/zhaopengwei1.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
